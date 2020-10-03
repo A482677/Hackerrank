@@ -107,7 +107,7 @@
 |Date and Time|Easy|[Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)|[calendar-module.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/8.Date%20and%20time/63.Calendar%20Module.py)|
 |Date and Time|Medium|[Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)|[python-time-delta.py](https://github.com/Kushal997-das/Competitive-Programming/blob/master/Hackerrank_python/8.Date%20and%20time/64.Time%20Delta.py)|
 
-> 9.erros and exceptions<br>
+> 9.Erros and Exceptions<br>
 
 | Subdomain | Difficulty | Problem link | Solution |
 |:---------:|:----------:|:-----------: |:--------:|
